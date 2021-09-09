@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Flutiou
+Name[fr]=Flutiou
+GenericName=Music player
+GenericName[fr]=Lecteur de musique
+Comment=Play, organise your music collection
+Comment[fr]=Jouer et organiser votre collection de musique
+Exec=flutiou --append-play %u
+TryExec=@bindir@/flutiou
+Icon=flutiou
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;Audio
+Keywords=Player;Audio;Server;
+MimeType=audio/ogg;audio/vorbis;audio/x-vorbis;audio/x-vorbis+ogg;audio/x-speex;audio/opus;audio/flac;audio/x-flac;audio/x-ms-asf;audio/x-ms-asx;audio/x-ms-wax;audio/x-ms-wma;audio/x-pn-windows-acm;audio/vnd.rn-realaudio;audio/x-pn-realaudio;audio/x-pn-realaudio-plugin;audio/x-real-audio;audio/x-realaudio;audio/mpeg;audio/mpg;audio/mp1;audio/mp2;audio/mp3;audio/x-mp1;audio/x-mp2;audio/x-mp3;audio/x-mpeg;audio/x-mpg;audio/aac;audio/m4a;audio/mp4;audio/x-m4a;audio/x-aac;audio/x-matroska;audio/webm;audio/3gpp;audio/3gpp2;audio/AMR;audio/AMR-WB;audio/mpegurl;audio/x-mpegurl;audio/scpls;audio/x-scpls;audio/dv;audio/x-aiff;audio/x-pn-aiff;audio/wav;audio/x-pn-au;audio/x-pn-wav;audio/x-wav;audio/x-adpcm;audio/ac3;audio/eac3;audio/vnd.dts;audio/vnd.dts.hd;audio/vnd.dolby.heaac.1;audio/vnd.dolby.heaac.2;audio/vnd.dolby.mlp;audio/basic;audio/midi;audio/x-ape;audio/x-gsm;audio/x-musepack;audio/x-tta;audio/x-wavpack;audio/x-shorten;audio/x-it;audio/x-mod;audio/x-s3m;audio/x-xm;
